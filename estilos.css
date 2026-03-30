@@ -1,0 +1,14 @@
+.caja {
+    border: 1px solid black;
+    background-color: peachpuff;
+    width: 200px;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.c1 {
+    display: flex;
+    justify-content: center;
+}
